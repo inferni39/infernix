@@ -8,9 +8,25 @@
 	border-width: 10px;
 }
 
+#box
+{
+	background-color: grey;
+}
+
+#boxresto
+{
+	background-color: black;
+	color: white;
+}
+
 h1
 {
 	margin-left: 425px;
+}
+
+h3
+{
+	margin-left: 250px;
 }
 
 body
