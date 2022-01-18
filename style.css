@@ -1,0 +1,35 @@
+#margin
+{
+	width: 1000px;
+	height: 5000px;
+	margin-left: 500px;
+	background-color: white;
+	border-style: groove;
+	border-width: 10px;
+}
+
+#box
+{
+	background-color: grey;
+}
+
+#boxresto
+{
+	background-color: black;
+	color: white;
+}
+
+h1
+{
+	margin-left: 425px;
+}
+
+h3
+{
+	margin-left: 250px;
+}
+
+body
+{
+	background-color: red;
+}
